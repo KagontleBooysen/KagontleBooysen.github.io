@@ -6,7 +6,7 @@ A portfolio website template to showcase my skills!
 
 ## Author
 
-[@koladechris](https://www.twitter.com/koladechris)
+[@BooysenKagontle](https://www.twitter.com/koladechris)
 
 ## Github repo
 
